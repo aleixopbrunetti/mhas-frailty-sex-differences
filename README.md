@@ -61,6 +61,8 @@ All analysis scripts are Stata do-files in [`dofile/`](dofile/), numbered in the
    ssc install parmest   
    ssc install estout
    ssc install gammafit
+   ssc install rcsgen
+   ssc install stpm2
    net from https://www.andrew.cmu.edu/user/bjones/traj
    net install traj
    net install st0263, from(http://www.stata-journal.com/software/sj12-3)
