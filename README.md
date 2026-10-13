@@ -1,4 +1,3 @@
-Readme · MD
 # Sex Differences in Frailty Trajectories and Terminal Decline in Older Adults in Mexico
  
 Stata code for analysing sex differences in frailty trajectories over 17 years of follow-up, and in the years before death, among older adults in the Mexican Health and Aging Study (MHAS).
@@ -44,7 +43,7 @@ All analysis scripts are Stata do-files in [`dofile/`](dofile/), numbered in the
  
 1. Clone this repository:
 ```bash
-   git clone https://github.com/aleixopbrunetti/frailty_project.git
+   git clone https://github.com/aleixopbrunetti/mhas-frailty-sex-differences.git
 ```
 2. Download the MHAS data.
 3. Set your working directory and define the folder paths used by the do-files. Run this once at the start of your Stata session, replacing the paths with your own:
